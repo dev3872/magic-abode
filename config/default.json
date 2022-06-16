@@ -1,0 +1,4 @@
+{
+  "jwtSecret": "secret",
+  "mongoURI": "mongodb+srv://dev3872:dev3872@cluster0.6ighygk.mongodb.net/magicAbode?retryWrites=true&w=majority"
+}
